@@ -1,6 +1,6 @@
 {
-  "name": "fakepackage",
-  "version": "0.0.0",
+  "name": "fakepackage1",
+  "version": "0.0.1",
   "authors": [
     "Henry Rose <henryr@porch.com>"
   ],
@@ -13,6 +13,7 @@
     "fake"
   ],
   "license": "MIT",
+  "private": true
   "ignore": [
     "**/.*",
     "node_modules",
