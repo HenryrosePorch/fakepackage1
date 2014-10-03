@@ -1,0 +1,23 @@
+{
+  "name": "fakepackage",
+  "version": "0.0.0",
+  "authors": [
+    "Henry Rose <henryr@porch.com>"
+  ],
+  "description": "i'm a fake package",
+  "main": "main.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "fake"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
